@@ -1,0 +1,27 @@
+0) Сначала изменили стандартные данные для входа на adm / 123
+
+1) Добавляем перечисление с типами координаторов в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.system.types.primary
+
+2) Изменяем класс CtCoordinator в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.system.types.primary
+
+3) Поменяли чтение и запись в базу данных координатора в классе DbCoordinators в пакете lu.uni.lassy.excalibur.examples.icrash.dev.desktop.java.database
+
+4) Добавили тип при создании кризиса вместе с координатором в классе DbCrises в пакете lu.uni.lassy.excalibur.examples.icrash.dev.desktop.java.database
+
+5) Добавили в БД iCrashFX поле type типа VARCHAR(80) со значением по умолчанию 'normal'
+
+6) Изменили файл icrashSystem в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.system (commons)
+
+7) Изменили файл icrashSystemImpl в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.system (server)
+
+8) Поменяли интерфейс ActAdministrator в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.environment.actors (commons)
+
+9) Поменяли реализацию интерфейса в файле ActAdministratorImpl в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.environment.actors (server)
+
+10) Поменяли oeAddCoordinator в интерфейсе ActProxyAdministrator в пакете lu.uni.lassy.excalibur.examples.icrash.dev.java.environment.actors (commons) 
+
+11) Поменяли oeAddCoordinator в классе ActProxyAdministratorImpl в пакете lu.uni.lassy.excalibur.examples.icrash.dev.model.actors (client)
+
+12) Меняем AdminController в пакете lu.uni.lassy.excalibur.examples.icrash.dev.controller (client)
+
+14) Изменили метод showCoordinatorScreen, добавив выбор типа координатора. Класс ICrashAdminGUIController в пакете lu.uni.lassy.excalibur.examples.icrash.dev.view.gui.admin (cleint)
