@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Guelfi\iCrash\lu.uni.lassy.excalibur.examples.icrash.dev.desktop.java.client"/>
+			<item value="C:\Guelfi\iCrash\lu.uni.lassy.excalibur.examples.icrash.dev.desktop.java.server"/>
+			<item value="C:\Guelfi\iCrash\lu.uni.lassy.excalibur.examples.icrash.dev.desktop.java.database"/>
+			<item value="C:\Guelfi\iCrash\lu.uni.lassy.excalibur.examples.icrash.dev.desktop.java.commons"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
